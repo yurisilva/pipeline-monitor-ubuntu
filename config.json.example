@@ -1,0 +1,5 @@
+{
+  "github_repo_url": "owner/repo",
+  "api_token": "ghp_your_github_personal_access_token_here",
+  "poll_interval_seconds": 120
+}
